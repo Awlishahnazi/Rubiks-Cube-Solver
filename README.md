@@ -22,7 +22,7 @@ The core of the solver uses  **Iterative Deepening Depth-First Search (IDDFS)** 
 * `main.py`: The complete source code (UI, Logic, and Algorithm).
 * `README.md`: Project documentation.
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
    git clone [https://github.com/Awlishahnazi/Rubiks-Cube-Solver.git](https://github.com/Awlishahnazi/Rubiks-Cube-Solver.git)
@@ -35,23 +35,23 @@ The core of the solver uses  **Iterative Deepening Depth-First Search (IDDFS)** 
 
 ## Screenshots
 
-When you **run** the python file, you see the **start section****:**
+When you **run** the python file, you see the start section:
 
 ![1793878397414](image/README/1793878397414.png)
 
-After pressing **start button**, you can see the **Cube status**, **buttons for movements**, **Scramble Cube button** and **Solve Cube button:**
+After pressing **start button**, you can see the **Cube status**, **buttons for movements**, **Scramble Cube button** and **Solve Cube button**:
 
 ![1793878413792](image/README/1793878413792.png)
 
-This is the Scrambled version of the Cube **(After pressing the Scramble Cube button):**
+This is the Scrambled version of the Cube **(After pressing the Scramble Cube button)**:
 
 ![1793878432946](image/README/1793878432946.png)
 
-And with pressing **Solve Cube Button** the cube will be solved**:**
+And with pressing **Solve Cube Button** the cube will be solved:
 
 ![1793878447605](image/README/1793878447605.png)
 
-**The final result:**
+**The final result**:
 
 ![1793878463013](image/README/1793878463013.png)
 
